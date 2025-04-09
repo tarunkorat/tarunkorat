@@ -25,7 +25,7 @@ Welcome to my GitHub! I'm a passionate software engineer who loves building inno
 
 ## 📈 GitHub Stats
 
-![Tarun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tarunkorat&show_icons=true&count_private=true&theme=radical)
+![Tarun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tarunkorat&show_icons=true&count_private=true&theme=ambient_gradient)
 
 ---
 
