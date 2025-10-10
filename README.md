@@ -4,6 +4,8 @@ Welcome to my GitHub! I'm a passionate software engineer who loves building inno
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Tarun_Korat-blue?logo=linkedin)](https://www.linkedin.com/in/tarun-korat/)
 [![GitHub Badge](https://img.shields.io/badge/GitHub-Tarun_Korat-black?logo=github)](https://github.com/tarunkorat)
+[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://tarunkorat.medium.com/) 
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tarunkorat336@gmail.com) 
 
 ## 🚀 About Me
 
