@@ -23,12 +23,6 @@ Welcome to my GitHub! I'm a passionate software engineer who loves building inno
 - **Cloud Platforms**: AWS, Google Cloud, Azure
 - **DevOps Tools**: Docker, Kubernetes, CI/CD (GitHub Actions, Jenkins)
 
-## 📈 GitHub Stats
-
-![Tarun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tarunkorat&show_icons=true&count_private=true&theme=ambient_gradient)
-
----
-
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=tarunkorat&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=tarunkorat&theme=github_dark&hide_border=false)<br/>
