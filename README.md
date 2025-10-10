@@ -37,7 +37,6 @@ Welcome to my GitHub! I'm a passionate software engineer who loves building inno
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=tarunkorat&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
 [![](https://visitcount.itsvg.in/api?id=tarunkorat&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ### Feel free to reach out for collaboration, open-source contributions, or just a chat about tech!  
