@@ -1,4 +1,4 @@
-# Hi there, I'm Tarun Korat 👋
+# Hi there, I'm Tarun Korat 👋 
 
 Welcome to my GitHub! I'm a passionate software engineer who loves building innovative solutions to real-world problems. I specialize in **Web Development**, **Full Stack Technologies**, and **Cloud Computing**. Feel free to explore my repositories, and let's collaborate on something amazing!
 
